@@ -1,0 +1,68 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color:rgb(8, 8, 41)
+}
+
+header{
+    text-align: center;
+    background-image: url('images/space.jpg');
+    border-style: solid;
+    border-color:gray;
+    margin-top: 0px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+
+h1{
+    text-align:center;
+    margin-bottom: 0px;
+    font-size: 30px;
+    color:gray;
+    border-style: solid;
+}
+
+.book{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+}
+
+.author{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50;
+    border-radius: 100%;
+}
+
+h3{
+    font-size: 20px;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    font-size: 16px;
+    list-style-type: none;
+    color: white;
+    box-sizing: border-box;
+    width: 20%;
+    border: 5px dotted darkgray;
+    
+
+}
+
+
+p{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 0px;
+    color:white;
+}
+
+a{
+    color: white;
+}
